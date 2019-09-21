@@ -342,7 +342,6 @@ body {
   position: absolute;
   top: 80%;
   left: 0;
-  overflow: hidden;
 }
 #banner {
   position: absolute;
@@ -387,7 +386,7 @@ body {
 #main-nav {
   float: left;
   font-size: 18px;
-  margin-left: 30px;
+  margin-left: 500px;
 }
 .nav-icon,
 .main-nav-link {
